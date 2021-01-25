@@ -24,7 +24,7 @@ soldering correctly.
 
 #### Conical Soldering Tips
 
-![Conical Soldering Iron Tip](Photos/Conical-Soldering-Iron-Tip.jpg)
+![Conical Soldering Iron Tip](Photos/Conical-Soldering-Iron-Tip.jpg)  
 Conical Soldering iron tips may seem like an obvious choice for SMD
 soldering, but they aren't always the best. Small tips are not necessary
 to do fine pitch SMD soldering. Good flux is necessary for fine pitch
