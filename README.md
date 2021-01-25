@@ -203,7 +203,7 @@ shows the board after flux cleaning.
 ## Soldering Techniques
 
 ### Soldering Examples
-![ many solder joints example](Photos/tool_Header_Joints.jpg)
+![ many solder joints example](Photos/tools_Header_Joints.jpg)
 
 #### Drag Soldering
 
