@@ -61,18 +61,50 @@ Disadvantages:
 ![Flathead Soldering Tip Example](Photos/Chisel-Soldering-Tip.jpg)  
 Chisel Soldering tips are the most versatile solder iron tips. They can
 solder big and small components to a PCB. They have a larger surface
-area and can do a better job of heating of the component and pcb. It is also possible to solder fine pitch SMD components using [drag soldering](#drag-soldering) and flux. 
+area and can do a better job of heating of the component and pcb. It is
+also possible to solder fine pitch SMD components using
+[drag soldering](#drag-soldering) and flux.
 
-#### ##
+##### Recap
+
+Advantages:
+1. Bigger heat reservoir
+2. Larger contact surface area can most easily heat component leads and
+   pcb
+3. Can hold more solder on tip for drag soldering
+
+Disadvantage:
+1. Larger top can disturb nearby components or leads.
+2. Can't reach tight spaces, like the corners of QFN packages.
+
+#### Solder Tip Preparation
+
+When you first turn a soldering iron on, there will be corrosion on the
+tip of the soldering iron. In order to solder you have to transfer heat
+from the soldering iron to the part. The Oxide layer on the tip on the
+soldering iron act as thermal insulation so it must be cleaned off.
+
+#### How to tin a soldering iron tip
+![Oxidized Soldering Tip](Photos/CorrodedSolderingTip.jpg)
+1. Add Solder to the tip. This adds fresh tin and lead to the tip along
+   with flux. The flux will help to dissolve the oxide layer off the tip
+   of the soldering iron.
+![Adding Soldering to the Soldering tip](Photos/Solder-On-Corroded-Tip.jpg)
+2. Rub the soldering iron in the brass sponge to rub the oxide layer off of the tip.
+![Solder Tip in Brass](Photos/Solder-Tip-In-Brass.jpg)
+Repeat steps 1 and 2 until the soldering iron is shiny and clean with no dull spots.
+3. Remove extra solder from the tip using a wet sponge.
+![Solder-Tip-In-Wet-Sponge](Photos/Solder-Tip-In-Wet-Sponge.jpg)
+4. Your solder tip should nice and shiny as shown in the photo.
+![Properly Tinned soldering iron](Photos/Clean-Solder-Tip.jpg)
 
 #### Drag Soldering
-Drag soldering 
-![Drag Soldering](Photos/DragSoldering.gif)
+
+Drag soldering ![Drag Soldering](Photos/DragSoldering.gif)
+
 #### Soldering Wetting
 
 ![Solder Wetting](Photos/solder-wetting-blob.jpg)
-
-
 
 
 ## Glossary
