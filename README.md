@@ -61,7 +61,7 @@ Disadvantages:
 ![Flathead Soldering Tip Example](Photos/Chisel-Soldering-Tip.jpg)  
 Chisel Soldering tips are the most versatile solder iron tips. They can
 solder big and small components to a PCB. They have a larger surface
-area and can do a better job of heating of the component and pcb. It is also possible to solder fine pitch SMD components using [drag soldering]( and flux. 
+area and can do a better job of heating of the component and pcb. It is also possible to solder fine pitch SMD components using [drag soldering](#drag-soldering) and flux. 
 
 #### ##
 
