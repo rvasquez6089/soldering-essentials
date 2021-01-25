@@ -45,30 +45,41 @@ small solder joints without disrupting components around them.
 Advantages:
 1. Small tip for very fine work.
 2. Can get into small corners unreachable by other tips.
-3. Doesn't disturb nearby solder joints  
+3. Doesn't disturb nearby solder joints
 
 Disadvantages:
-1. Small tip doesn't transfer heat very well, it may be hard to heat up larger components and pads with this tip.
-2. Sometime can be sharp and remove [soldermask](#soldermask) if not careful.
-3. Small tip can't wick much solder for drag soldering or drag solder removal.
+1. Small tip doesn't transfer heat very well, it may be hard to heat up
+   larger components and pads with this tip.
+2. Sometime can be sharp and remove [soldermask](#soldermask) if not
+   careful.
+3. Small tip can't wick much solder for drag soldering or drag solder
+   removal.
 
 
 #### Flathead(Chisel) Soldering Tips
 
-![Flathead Soldering Tip Example](Photos/Chisel-Soldering-Tip.jpg)
-Chisel Soldering tips are the most versatile solder iron tips. They can big and small 
+![Flathead Soldering Tip Example](Photos/Chisel-Soldering-Tip.jpg)  
+Chisel Soldering tips are the most versatile solder iron tips. They can
+solder big and small components to a PCB. They have a larger surface
+area and can do a better job of heating of the component and pcb. It is also possible to solder fine pitch SMD components using [drag soldering]( and flux. 
 
 #### ##
 
-
+#### Drag Soldering
+Drag soldering 
+![Drag Soldering](Photos/DragSoldering.gif)
 #### Soldering Wetting
 
 ![Solder Wetting](Photos/solder-wetting-blob.jpg)
 
 
+
+
 ## Glossary
+
 #### SolderMask:
-The Green (Or other color) covering the base pcb and copper) 
+
+The Green (Or other color) covering the base pcb and copper)
 
 ## Credits
 
