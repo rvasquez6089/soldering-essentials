@@ -174,13 +174,31 @@ water. Most PCB manufactures will put PCBs through a PCB washer similar
 to a dish washer.
 
 #### Cleaning Flux / General PCB cleaning
-PCB's must be cleaned with no flux residue left except for no clean fluxes. 
-Below is what happens when flux is left on a PCB for an extended period of time. 
-![Flux Damage](Photos/Flux-Damage.jpg)
-This photos shows a board with flux left on it as well as some damage to the solder mask and dry joints. 
-![Before Flux cleaning](Photos/Before-Flux-Cleaning.jpg)
-Those shows the board after flux cleaning.
+
+PCB's must be cleaned with no flux residue left except for no clean
+fluxes. Below is what happens when flux is left on a PCB for an extended
+period of time.
+
+
+![Flux Damage](Photos/Flux-Damage.jpg) This photos shows a board with
+flux left on it as well as some damage to the solder mask and dry
+joints. ![Before Flux cleaning](Photos/Before-Flux-Cleaning.jpg) Those
+shows the board after flux cleaning.
 ![After flux cleaning](Photos/After-Flux-Cleaning.jpg)
+
+#### Step by Step PCB cleaning. 
+1. First step is to clean to PCB in hot water and scrub with toothbrush.
+   ![Clean in water](Photos/Cleaning-In-Water.jpg)
+2. Next step is to do alcohol rinse.
+   ![Clean with alcohol](Photos/Alcohol-Rinse.jpg)
+3. Scrub again with alcohol still on PCB.
+   ![Alcohol Scrub](Photos/Alcohol-Scrub.jpg)
+4. Rinse away alcohol with dissolved flux and contamination with more
+   alcohol. Repeat steps 2 and 3 until pcb has no more flux if using
+   rosin core flux. ![Clean with alcohol](Photos/Alcohol-Rinse.jpg)
+5. Blow dry with compressed air to carry away any contamination
+   dissovled in the remaining alcohol. ![Blow dry](Photos/Blow-Dry.jpg)
+6. Wait 10-30 mins before powering PCB. 
 
 ## Soldering Techniques
 
@@ -191,9 +209,6 @@ Drag soldering ![Drag Soldering](Photos/DragSoldering.gif)
 #### Soldering Wetting
 
 ![Solder Wetting](Photos/solder-wetting-blob.jpg)
-
-
-
 
 
 ## Glossary
