@@ -202,6 +202,9 @@ shows the board after flux cleaning.
 
 ## Soldering Techniques
 
+### Soldering Examples
+![ many solder joints example](Photos/tool_Header_Joints.jpg)
+
 #### Drag Soldering
 
 Drag soldering ![Drag Soldering](Photos/DragSoldering.gif)
