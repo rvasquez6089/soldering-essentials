@@ -85,16 +85,17 @@ from the soldering iron to the part. The Oxide layer on the tip on the
 soldering iron act as thermal insulation so it must be cleaned off.
 
 ### How to tin a soldering iron tip
-![Oxidized Soldering Tip](Photos/CorrodedSolderingTip.jpg)
+This is an oxidized soldering iron tip. 
+![Oxidized Soldering Tip](Photos/CorrodedSolderingTip.jpg)  
 1. Add Solder to the tip. This adds fresh tin and lead to the tip along
    with flux. The flux will help to dissolve the oxide layer off the tip
    of the soldering iron.
-![Adding Soldering to the Soldering tip](Photos/Solder-On-Corroded-Tip.jpg)
+![Adding Soldering to the Soldering tip](Photos/Solder-On-Corroded-Tip.jpg)  
 2. Rub the soldering iron in the brass sponge to rub the oxide layer off of the tip.
-![Solder Tip in Brass](Photos/Solder-Tip-In-Brass.jpg)
+![Solder Tip in Brass](Photos/Solder-Tip-In-Brass.jpg)  
 Repeat steps 1 and 2 until the soldering iron is shiny and clean with no dull spots.
 3. Remove extra solder from the tip using a wet sponge.
-![Solder-Tip-In-Wet-Sponge](Photos/Solder-Tip-In-Wet-Sponge.jpg)
+![Solder-Tip-In-Wet-Sponge](Photos/Solder-Tip-In-Wet-Sponge.jpg)  
 4. Your solder tip should nice and shiny as shown in the photo.
 ![Properly Tinned soldering iron](Photos/Clean-Solder-Tip.jpg)
 
