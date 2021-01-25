@@ -85,30 +85,93 @@ from the soldering iron to the part. The Oxide layer on the tip on the
 soldering iron act as thermal insulation so it must be cleaned off.
 
 ### How to tin a soldering iron tip
-This is an oxidized soldering iron tip. 
-![Oxidized Soldering Tip](Photos/CorrodedSolderingTip.jpg)  
+
+This is an oxidized soldering iron tip.
+![Oxidized Soldering Tip](Photos/CorrodedSolderingTip.jpg)
 1. Add Solder to the tip. This adds fresh tin and lead to the tip along
    with flux. The flux will help to dissolve the oxide layer off the tip
    of the soldering iron.
-![Adding Soldering to the Soldering tip](Photos/Solder-On-Corroded-Tip.jpg)  
-2. Rub the soldering iron in the brass sponge to rub the oxide layer off of the tip.
-![Solder Tip in Brass](Photos/Solder-Tip-In-Brass.jpg)  
-Repeat steps 1 and 2 until the soldering iron is shiny and clean with no dull spots.
+   ![Adding Soldering to the Soldering tip](Photos/Solder-On-Corroded-Tip.jpg)
+2. Rub the soldering iron in the brass sponge to rub the oxide layer off
+   of the tip. ![Solder Tip in Brass](Photos/Solder-Tip-In-Brass.jpg)  
+   Repeat steps 1 and 2 until the soldering iron is shiny and clean with
+   no dull spots.
 3. Remove extra solder from the tip using a wet sponge.
-![Solder-Tip-In-Wet-Sponge](Photos/Solder-Tip-In-Wet-Sponge.jpg)  
+   ![Solder-Tip-In-Wet-Sponge](Photos/Solder-Tip-In-Wet-Sponge.jpg)
 4. Your solder tip should nice and shiny as shown in the photo.
-![Properly Tinned soldering iron](Photos/Clean-Solder-Tip.jpg)
+   ![Properly Tinned soldering iron](Photos/Clean-Solder-Tip.jpg)
 
 
+## Fluxes: How to choose them, use them, and clean them
 
+### What is flux?
 
+Flux is a acid that dissolves the oxides on the part and the pcb. This
+will ensure the solder has good mechanical and electrical joint. The
+flux will make the oxides float to the outside of the solder joint for
+easy cleaning. The flux residue left on the pcb after soldering contains
+the oxides. Most fluxes are also most acidic at soldering temperature
+than at room temperature.
 
+### Different Kinds of Flux
 
+#### Rosin Flux
 
+- Acidity at room temp: Medium
+- Acidity at soldering temp: Medium-Strong.
+- Difficulty to clean: Difficult, must use strong solvent like alcohol
+  or PCB cleaners.
+- Damage to circuits: Conductive, Attracts dust and moisture, can damage
+  IC and smd components.
+- Time to solder: This type flux lasts a medium amount of time compared
+  to other fluxes.
 
+Rosin Flux is the most common type of flux found in solder wire and flux
+pens. It leaves a dark residue on a pcb especially when heated for a
+long period of time. Once cool, rosin core solder is sticky and can
+attract dust and other debris to the PCB leading to short circuits. In
+some cases leaving rosin flux on PCBs for a long period of time can lead
+to conductive areas of the flux between components. This will cause
+malfunctions for sensitive circuits like measurement circuits are high
+impedance/impedance sensitive communication like USB or I2C. The flux
+can also dissolve traces over time if there is enough flux left over the
+board. To clean rosin core flux from PCB, you must use 70%+ isopropyl
+alcohol and a brush(tooth brush) to properly remove the flux.
 
+#### No-Clean Flux
 
+- Acidity at room temp: None, This is why its called no clean.
+- Acidity at soldering temp: Weak.
+- Difficulty to clean: Hard/No Effort, must use strong solvent like
+  alcohol or PCB cleaners if you want to remove it.
+- Damage to circuits: No damage to circuits. It may be conductive in
+  some cases.
+- Time to solder: This solder does not last long at soldering
+  temperatures. It will degrade very quickly so solder joints must be
+  made fast when using this type of flux in soldering.
 
+This type of solder is typically used in applications where the PCB's
+can't be cleaned such as....when doing repairs to PCB's can't be removed
+for cleaning, or when soldering on components that can't be cleaned like
+humidity sensors or buzzers.
+
+#### Water Soluble flux
+
+- Acidity at room temp: High
+- Acidity at soldering temp: Very High
+- Difficulty to clean: Easy, wash the pcb in warm/hot water to clean
+  flux off. Also use a toothbrush to scrub any burned flux.
+- Damage to circuits: This Flux is extremely acidic and will dissolve
+  IC's, resistors, capacitors, and pcb traces if not cleaned off. Clean
+  off within 12 hours to avoid damage to circuit.
+- Time to solder: This flux lasts a long time on a solder joint when
+  soldering. Allows for lots of repositions before needing more flux.
+
+This type of solder is typically used in a hand building of circuit
+boards and pick and place application because of its easy cleaning. No
+special chemicals are required to clean this flux from a PCB, just
+water. Most PCB manufactures will put PCBs through a PCB washer similar
+to a dish washer.
 
 #### Drag Soldering
 
