@@ -173,6 +173,17 @@ special chemicals are required to clean this flux from a PCB, just
 water. Most PCB manufactures will put PCBs through a PCB washer similar
 to a dish washer.
 
+#### Cleaning Flux / General PCB cleaning
+PCB's must be cleaned with no flux residue left except for no clean fluxes. 
+Below is what happens when flux is left on a PCB for an extended period of time. 
+![Flux Damage](Photos/Flux-Damage.jpg)
+This photos shows a board with flux left on it as well as some damage to the solder mask and dry joints. 
+![Before Flux cleaning](Photos/Before-Flux-Cleaning.jpg)
+Those shows the board after flux cleaning.
+![After flux cleaning](Photos/After-Flux-Cleaning.jpg)
+
+## Soldering Techniques
+
 #### Drag Soldering
 
 Drag soldering ![Drag Soldering](Photos/DragSoldering.gif)
@@ -180,6 +191,9 @@ Drag soldering ![Drag Soldering](Photos/DragSoldering.gif)
 #### Soldering Wetting
 
 ![Solder Wetting](Photos/solder-wetting-blob.jpg)
+
+
+
 
 
 ## Glossary
