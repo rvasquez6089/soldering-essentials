@@ -7,7 +7,7 @@ by Ryan Vasquez
 
 [Credits](#Credits)
 
-## Theory Of Soldering
+# Theory Of Soldering
 
 ![soldering fail](Photos/stock-image-fail-soldering-iron-bob-byron-1.jpg)
 The purpose of soldering is to join to electronic components together.
@@ -20,9 +20,9 @@ soldering correctly.
 
 [Soldering Iron Tip Selection and Preparation](#soldering-iron-tip-selection-and-preparation)
 
-### Soldering Iron Tip Selection and Preparation
+## Soldering Iron Tip Selection and Preparation
 
-#### Conical Soldering Tips
+### Conical Soldering Tips
 
 ![Conical Soldering Iron Tip](Photos/Conical-Soldering-Iron-Tip.jpg)  
 Conical Soldering iron tips may seem like an obvious choice for SMD
@@ -56,7 +56,7 @@ Disadvantages:
    removal.
 
 
-#### Flathead(Chisel) Soldering Tips
+### Flathead(Chisel) Soldering Tips
 
 ![Flathead Soldering Tip Example](Photos/Chisel-Soldering-Tip.jpg)  
 Chisel Soldering tips are the most versatile solder iron tips. They can
@@ -77,14 +77,14 @@ Disadvantage:
 1. Larger top can disturb nearby components or leads.
 2. Can't reach tight spaces, like the corners of QFN packages.
 
-#### Solder Tip Preparation
+## Solder Tip Preparation
 
 When you first turn a soldering iron on, there will be corrosion on the
 tip of the soldering iron. In order to solder you have to transfer heat
 from the soldering iron to the part. The Oxide layer on the tip on the
 soldering iron act as thermal insulation so it must be cleaned off.
 
-#### How to tin a soldering iron tip
+### How to tin a soldering iron tip
 ![Oxidized Soldering Tip](Photos/CorrodedSolderingTip.jpg)
 1. Add Solder to the tip. This adds fresh tin and lead to the tip along
    with flux. The flux will help to dissolve the oxide layer off the tip
@@ -97,6 +97,17 @@ Repeat steps 1 and 2 until the soldering iron is shiny and clean with no dull sp
 ![Solder-Tip-In-Wet-Sponge](Photos/Solder-Tip-In-Wet-Sponge.jpg)
 4. Your solder tip should nice and shiny as shown in the photo.
 ![Properly Tinned soldering iron](Photos/Clean-Solder-Tip.jpg)
+
+
+
+
+
+
+
+
+
+
+
 
 #### Drag Soldering
 
