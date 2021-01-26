@@ -211,7 +211,7 @@ shows the board after flux cleaning.
 ![Soldering QFN](Photos/SolderPadPrepping.gif)
 
 
-![Soldering QFN](Photos/SolderPadPrepping.mp4)
+![Soldering QFN](Photos/How-to-Solder-a-QFN-chip-AD7779_480p.mp4)
 
 ### Soldering Examples
 ![ many solder joints example](Photos/tools_Header_Joints.jpg)
