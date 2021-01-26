@@ -200,7 +200,18 @@ shows the board after flux cleaning.
    dissovled in the remaining alcohol. ![Blow dry](Photos/Blow-Dry.jpg)
 6. Wait 10-30 mins before powering PCB. 
 
+## Soldering Iron Temperature
+
+
+
+
 ## Soldering Techniques
+
+### Soldering QFN
+![Soldering QFN](Photos/SolderPadPrepping.gif)
+
+
+![Soldering QFN](Photos/SolderPadPrepping.mp4)
 
 ### Soldering Examples
 ![ many solder joints example](Photos/tools_Header_Joints.jpg)
